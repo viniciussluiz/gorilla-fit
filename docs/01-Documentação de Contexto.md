@@ -18,10 +18,15 @@ O Gorilla Soldier eliminará essas barreiras ao oferecer um sistema automatizado
 # Objetivos
 
 ✅ Criar um app fitness all-in-one que integre treino, nutrição e progresso físico.
+
 ✅ Personalizar treinos e dietas com base no perfil do usuário.
+
 ✅ Utilizar IA para análise nutricional por meio de fotos dos alimentos.
+
 ✅ Fornecer acompanhamento de progresso com gráficos detalhados.
+
 ✅ Gerar playlists motivacionais baseadas no gosto musical do usuário.
+
 ✅ Criar um ambiente motivador que auxilie na aderência aos hábitos saudáveis.
 
 # Justificativa
@@ -35,9 +40,13 @@ O Gorilla Soldier se destacará por ser um aplicativo integrado, que usa Intelig
 O Gorilla Soldier será voltado para qualquer pessoa que deseja melhorar sua forma física e saúde, abrangendo diferentes perfis, como:
 
 🏋️‍♂️ Frequentadores de academia que buscam planos de treino personalizados.
+
 🥗 Pessoas em dieta que precisam de um acompanhamento alimentar prático e preciso.
+
 📈 Atletas e esportistas que querem otimizar performance e monitorar progresso.
+
 💪 Iniciantes no mundo fitness que não sabem por onde começar.
+
 🎯 Pessoas que buscam motivação e consistência para manter um estilo de vida saudável.
 
 O app será ideal para quem deseja um caminho simples e eficaz para atingir seus objetivos físicos e nutricionais com suporte automatizado e personalizado. 🚀💪
