@@ -5,6 +5,7 @@ O Gorilla Soldier será um assistente fitness completo impulsionado por Intelig�
 # Problema
 
 Muitas pessoas enfrentam dificuldades para seguir um plano de treino e alimentação consistente devido à falta de orientação, motivação e personalização. Alguns dos desafios mais comuns incluem:
+
 ✅ Falta de um plano de treino estruturado e eficiente.
 
 ✅ Dificuldade em calcular macros e calorias das refeições.
