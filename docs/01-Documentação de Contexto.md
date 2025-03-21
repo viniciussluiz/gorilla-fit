@@ -6,8 +6,11 @@ O Gorilla Soldier será um assistente fitness completo impulsionado por Intelig�
 
 Muitas pessoas enfrentam dificuldades para seguir um plano de treino e alimentação consistente devido à falta de orientação, motivação e personalização. Alguns dos desafios mais comuns incluem:
 ✅ Falta de um plano de treino estruturado e eficiente.
+
 ✅ Dificuldade em calcular macros e calorias das refeições.
+
 ✅ Dificuldade em acompanhar a evolução corporal de forma precisa.
+
 ✅ Falta de motivação para manter a consistência nos treinos.
 
 O Gorilla Soldier eliminará essas barreiras ao oferecer um sistema automatizado, inteligente e fácil de usar, garantindo que cada usuário tenha um planejamento adaptado às suas necessidades e mantenha o foco na jornada fitness.
