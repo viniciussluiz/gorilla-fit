@@ -8,37 +8,36 @@ Foram estabelecidos os níveis de prioridade de acordo com os dois aspectos prin
 
 ## Requisitos Funcionais
 
-| ID      | Descrição do Requisito | Prioridade |
-|---------|-----------------------------------------------|-----------|
-| RF-001  | Gerar fichas de treino personalizadas com imagens da execução dos exercícios. | ALTA |
-| RF-005  | Criar planos alimentares personalizados com base nos objetivos do usuário. | ALTA |
-| RF-006  | Oferecer sugestões de treinos e dietas baseadas no histórico e progresso. | ALTA |
-| RF-009  | Notificações de lembretes para treinos e refeições. | MÉDIA |
-| RF-008  | Sincronização com dispositivos de monitoramento de saúde (smartwatches, smartbands). | MÉDIA |
-| RF-002  | Criar playlists musicais baseadas nas preferências do usuário. | BAIXA |
-| RF-003  | Permitir medição corporal e exibição de progresso através de gráficos. | BAIXA |
-| RF-004  | Analisar fotos de pratos de comida e estimar valores nutricionais. | BAIXA |
-| RF-007  | Gerar recomendações de suplementos conforme necessidade do usuário. | BAIXA |
-| RF-016  | O aplicativo deve fornecer descrição em áudio dos exercícios para acessibilidade. | BAIXA |
-| RF-010  | Integração com redes sociais para compartilhamento de progresso. | BAIXA |
-| RF-011  | Gamificação: Recompensas e desafios para manter a motivação. | BAIXA |
-| RF-012  | Modo Treinador: Permitir que personal trainers cadastrem alunos e montem planos. | BAIXA |
-| RF-013  | Treino ao Vivo: Aulas interativas e transmissões de especialistas. | BAIXA |
-| RF-014  | Marketplace: Loja de suplementos e produtos fitness. | BAIXA |
-| RF-015  | Detecção de Execução de Exercício: Análise via câmera para corrigir postura. | BAIXA |
+| ID      | Descrição do Requisito | Prioridade | Categoria |
+|---------|-----------------------------------------------|-----------|-----------|
+| RF-001  | Gerar fichas de treino personalizadas com imagens da execução dos exercícios. | ALTA | R2 (Importante e Urgente) |
+| RF-005  | Criar planos alimentares personalizados com base nos objetivos do usuário. | ALTA | R2 (Importante e Urgente) |
+| RF-006  | Oferecer sugestões de treinos e dietas baseadas no histórico e progresso. | ALTA | R2 (Importante e Urgente) |
+| RF-009  | Notificações de lembretes para treinos e refeições. | MÉDIA | R3 (Não tão Importante, mas Urgente) |
+| RF-008  | Sincronização com dispositivos de monitoramento de saúde (smartwatches, smartbands). | MÉDIA | R3 (Não tão Importante, mas Urgente) |
+| RF-002  | Criar playlists musicais baseadas nas preferências do usuário. | BAIXA | R1 (Importante, mas Não Urgente) |
+| RF-003  | Permitir medição corporal e exibição de progresso através de gráficos. | BAIXA | R1 (Importante, mas Não Urgente) |
+| RF-004  | Analisar fotos de pratos de comida e estimar valores nutricionais. | BAIXA | R1 (Importante, mas Não Urgente) |
+| RF-007  | Gerar recomendações de suplementos conforme necessidade do usuário. | BAIXA | R1 (Importante, mas Não Urgente) |
+| RF-016  | O aplicativo deve fornecer descrição em áudio dos exercícios para acessibilidade. | BAIXA | R1 (Importante, mas Não Urgente) |
+| RF-010  | Integração com redes sociais para compartilhamento de progresso. | BAIXA | R4 (Não Importante e Não Urgente) |
+| RF-011  | Gamificação: Recompensas e desafios para manter a motivação. | BAIXA | R4 (Não Importante e Não Urgente) |
+| RF-012  | Modo Treinador: Permitir que personal trainers cadastrem alunos e montem planos. | BAIXA | R4 (Não Importante e Não Urgente) |
+| RF-013  | Treino ao Vivo: Aulas interativas e transmissões de especialistas. | BAIXA | R4 (Não Importante e Não Urgente) |
+| RF-014  | Marketplace: Loja de suplementos e produtos fitness. | BAIXA | R4 (Não Importante e Não Urgente) |
+| RF-015  | Detecção de Execução de Exercício: Análise via câmera para corrigir postura. | BAIXA | R4 (Não Importante e Não Urgente) |
 
 ## Requisitos Não Funcionais
 
-| ID       | Descrição do Requisito | Prioridade |
-|----------|---------------------------------------------|-----------|
-| RNF-001  | O aplicativo deve ser responsivo e intuitivo. | ALTA |
-| RNF-002  | A IA deve garantir recomendações precisas baseadas em dados confiáveis. | ALTA |
-| RNF-005  | Privacidade e segurança de dados conforme LGPD. | ALTA |
-| RNF-003  | Alto desempenho para processamento de imagens e análise de dados. | MÉDIA |
-| RNF-004  | Armazenamento seguro de informações dos usuários. | ALTA |
-| RNF-006  | Suporte multiplataforma (Android e iOS). | BAIXA |
-| RNF-007  | Interface amigável para diferentes perfis de usuários. | BAIXA |
-
+| ID       | Descrição do Requisito | Prioridade | Categoria |
+|----------|---------------------------------------------|-----------|-----------|
+| RNF-001  | O aplicativo deve ser responsivo e intuitivo. | ALTA | R2 (Importante e Urgente) |
+| RNF-002  | A IA deve garantir recomendações precisas baseadas em dados confiáveis. | ALTA | R2 (Importante e Urgente) |
+| RNF-005  | Privacidade e segurança de dados conforme LGPD. | ALTA | R2 (Importante e Urgente) |
+| RNF-003  | Alto desempenho para processamento de imagens e análise de dados. | MÉDIA | R3 (Não tão Importante, mas Urgente) |
+| RNF-004  | Armazenamento seguro de informações dos usuários. | ALTA | R3 (Não tão Importante, mas Urgente) |
+| RNF-006  | Suporte multiplataforma (Android e iOS). | BAIXA | R1 (Importante, mas Não Urgente) |
+| RNF-007  | Interface amigável para diferentes perfis de usuários. | BAIXA | R1 (Importante, mas Não Urgente) |
 ## Restrições
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir:
