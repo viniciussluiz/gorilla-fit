@@ -50,24 +50,24 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 # Regras de Negócio
 
-## 📊 Personalização Inteligente  
+### 📊 Personalização Inteligente  
 A IA deve considerar peso, altura, idade e objetivo do usuário para criar treinos e dietas personalizadas.  
 
-## 🏋️‍♂️ Execução Correta  
+### 🏋️‍♂️ Execução Correta  
 As imagens dos exercícios devem seguir padrões biomecânicos corretos para evitar lesões e garantir a eficácia dos treinos.  
 
-## 🔊 Acessibilidade Inclusiva  
+### 🔊 Acessibilidade Inclusiva  
 Além das imagens demonstrativas dos exercícios, o aplicativo fornecerá uma descrição em áudio dos movimentos para atender usuários com deficiência visual e dificuldades na leitura.
 
-## ✏️ Ajuste Manual  
+### ✏️ Ajuste Manual  
 O usuário pode modificar treinos e dietas sugeridas de acordo com suas preferências e necessidades.  
 
-## 🍽️ Análise Nutricional Confiável  
+### 🍽️ Análise Nutricional Confiável  
 A análise de fotos de pratos de comida será baseada em um banco de dados alimentar confiável, garantindo estimativas precisas.  
 
-## 📈 Evolução Contínua  
+### 📈 Evolução Contínua  
 Os treinos e dietas serão ajustados automaticamente conforme o progresso do usuário para manter a eficácia.  
 
-## 🔒 Segurança e Privacidade  
+### 🔒 Segurança e Privacidade  
 Os dados dos usuários serão armazenados com segurança e não serão compartilhados sem consentimento.  
 
