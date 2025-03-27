@@ -11,36 +11,33 @@ Foram estabelecidos os níveis de prioridade de acordo com os dois aspectos prin
 | ID      | Descrição do Requisito | Prioridade |
 |---------|-----------------------------------------------|-----------|
 | RF-001  | Gerar fichas de treino personalizadas com imagens da execução dos exercícios. | ALTA |
-| RF-002  | Criar playlists musicais baseadas nas preferências do usuário. | ALTA |
-| RF-003  | Permitir medição corporal e exibição de progresso através de gráficos. | ALTA |
-| RF-004  | Analisar fotos de pratos de comida e estimar valores nutricionais. | MÉDIA |
 | RF-005  | Criar planos alimentares personalizados com base nos objetivos do usuário. | ALTA |
 | RF-006  | Oferecer sugestões de treinos e dietas baseadas no histórico e progresso. | ALTA |
-| RF-007  | Gerar recomendações de suplementos conforme necessidade do usuário. | MÉDIA |
-| RF-008  | Sincronização com dispositivos de monitoramento de saúde (smartwatches, smartbands). | MÉDIA |
 | RF-009  | Notificações de lembretes para treinos e refeições. | MÉDIA |
+| RF-008  | Sincronização com dispositivos de monitoramento de saúde (smartwatches, smartbands). | MÉDIA |
+| RF-002  | Criar playlists musicais baseadas nas preferências do usuário. | BAIXA |
+| RF-003  | Permitir medição corporal e exibição de progresso através de gráficos. | BAIXA |
+| RF-004  | Analisar fotos de pratos de comida e estimar valores nutricionais. | BAIXA |
+| RF-007  | Gerar recomendações de suplementos conforme necessidade do usuário. | BAIXA |
+| RF-016  | O aplicativo deve fornecer descrição em áudio dos exercícios para acessibilidade. | BAIXA |
 | RF-010  | Integração com redes sociais para compartilhamento de progresso. | BAIXA |
 | RF-011  | Gamificação: Recompensas e desafios para manter a motivação. | BAIXA |
 | RF-012  | Modo Treinador: Permitir que personal trainers cadastrem alunos e montem planos. | BAIXA |
 | RF-013  | Treino ao Vivo: Aulas interativas e transmissões de especialistas. | BAIXA |
 | RF-014  | Marketplace: Loja de suplementos e produtos fitness. | BAIXA |
 | RF-015  | Detecção de Execução de Exercício: Análise via câmera para corrigir postura. | BAIXA |
-| RF-016  | O aplicativo deve fornecer descrição em áudio dos exercícios para acessibilidade. | MÉDIA      |
-
 
 ## Requisitos Não Funcionais
-
-Os requisitos não funcionais não estão relacionados diretamente com os serviços específicos do sistema oferecidos aos seus usuários. Eles estão relacionados com o nível de serviço esperado para o melhor funcionamento do software como um todo. O descritivo abaixo representa o escopo não funcional que a plataforma atenderá:
 
 | ID       | Descrição do Requisito | Prioridade |
 |----------|---------------------------------------------|-----------|
 | RNF-001  | O aplicativo deve ser responsivo e intuitivo. | ALTA |
 | RNF-002  | A IA deve garantir recomendações precisas baseadas em dados confiáveis. | ALTA |
+| RNF-005  | Privacidade e segurança de dados conforme LGPD. | ALTA |
 | RNF-003  | Alto desempenho para processamento de imagens e análise de dados. | MÉDIA |
 | RNF-004  | Armazenamento seguro de informações dos usuários. | ALTA |
-| RNF-005  | Privacidade e segurança de dados conforme LGPD. | ALTA |
-| RNF-006  | Suporte multiplataforma (Android e iOS). | ALTA |
-| RNF-007  | Interface amigável para diferentes perfis de usuários. | MÉDIA |
+| RNF-006  | Suporte multiplataforma (Android e iOS). | BAIXA |
+| RNF-007  | Interface amigável para diferentes perfis de usuários. | BAIXA |
 
 ## Restrições
 
