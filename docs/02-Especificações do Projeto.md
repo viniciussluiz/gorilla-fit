@@ -15,10 +15,10 @@ Foram estabelecidos os níveis de prioridade de acordo com os dois aspectos prin
 | RF-006  | Oferecer sugestões de treinos e dietas baseadas no histórico e progresso. | ALTA | R2 (Importante e Urgente) |
 | RF-009  | Notificações de lembretes para treinos e refeições. | MÉDIA | R3 (Não tão Importante, mas Urgente) |
 | RF-008  | Sincronização com dispositivos de monitoramento de saúde (smartwatches, smartbands). | MÉDIA | R3 (Não tão Importante, mas Urgente) |
+| RF-003  | Permitir medição corporal e exibição de progresso através de gráficos. | MÉDIA | R3 (Não importante, mas urgente) |
 | RF-002  | Criar playlists musicais baseadas nas preferências do usuário. | BAIXA | R1 (Importante, mas Não Urgente) |
-| RF-003  | Permitir medição corporal e exibição de progresso através de gráficos. | BAIXA | R1 (Importante, mas Não Urgente) |
-| RF-004  | Analisar fotos de pratos de comida e estimar valores nutricionais. | BAIXA | R1 (Importante, mas Não Urgente) |
-| RF-007  | Gerar recomendações de suplementos conforme necessidade do usuário. | BAIXA | R1 (Importante, mas Não Urgente) |
+| RF-004  | Analisar fotos de pratos de comida e estimar valores nutricionais. | BAIXA | R4 (Não tao mportante e Não Urgente) |
+| RF-007  | Gerar recomendações de suplementos conforme necessidade do usuário. | BAIXA | R4 (Não tao mportante e Não Urgente) |
 | RF-016  | O aplicativo deve fornecer descrição em áudio dos exercícios para acessibilidade. | BAIXA | R1 (Importante, mas Não Urgente) |
 | RF-010  | Integração com redes sociais para compartilhamento de progresso. | BAIXA | R4 (Não Importante e Não Urgente) |
 | RF-011  | Gamificação: Recompensas e desafios para manter a motivação. | BAIXA | R4 (Não Importante e Não Urgente) |
@@ -26,6 +26,7 @@ Foram estabelecidos os níveis de prioridade de acordo com os dois aspectos prin
 | RF-013  | Treino ao Vivo: Aulas interativas e transmissões de especialistas. | BAIXA | R4 (Não Importante e Não Urgente) |
 | RF-014  | Marketplace: Loja de suplementos e produtos fitness. | BAIXA | R4 (Não Importante e Não Urgente) |
 | RF-015  | Detecção de Execução de Exercício: Análise via câmera para corrigir postura. | BAIXA | R4 (Não Importante e Não Urgente) |
+| RF-016  | Envio automático de dicas diárias sobre treino e saúde (Estilo: Você Sabia?) | BAIXA | R4 (Não Importante e Não Urgente) |
 
 ## Requisitos Não Funcionais
 
@@ -64,9 +65,6 @@ O usuário pode modificar treinos e dietas sugeridas de acordo com suas preferê
 
 ### 🍽️ Análise Nutricional Confiável  
 A análise de fotos de pratos de comida será baseada em um banco de dados alimentar confiável, garantindo estimativas precisas.  
-
-### 📈 Evolução Contínua  
-Os treinos e dietas serão ajustados automaticamente conforme o progresso do usuário para manter a eficácia.  
 
 ### 🔒 Segurança e Privacidade  
 Os dados dos usuários serão armazenados com segurança e não serão compartilhados sem consentimento.  
