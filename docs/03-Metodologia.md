@@ -16,19 +16,16 @@ A landing page institucional será construída com **Framer**, ferramenta que pe
 O uso do Framer proporciona agilidade no desenvolvimento e uma ótima experiência de navegação para apresentação do produto e captação de leads.
 
 ### 🧠 Backend
-O backend da aplicação será estruturado com o uso da **Supabase**, uma plataforma open source que fornece banco de dados PostgreSQL, autenticação, APIs RESTful e WebSocket em tempo real.  
-Essa escolha garante escalabilidade, segurança dos dados e integração simplificada com o frontend, permitindo uma arquitetura moderna, robusta e de fácil manutenção.
+O backend da aplicação será estruturado com o uso da **Supabase**, uma plataforma open source que fornece autenticação, banco de dados PostgreSQL em tempo real, armazenamento e APIs prontos para uso.  
+Com o Supabase, conseguimos maior rapidez na implementação de funcionalidades server-side, além de controle total dos dados e segurança integrada.
 
 ### 💳 Pagamento
-A integração de pagamentos será realizada por meio da **Stripe**, uma das soluções mais seguras e amplamente utilizadas do mercado.  
-A Stripe permitirá que os usuários realizem pagamentos de forma prática e confiável, além de possibilitar a implementação de planos de assinatura, gerenciamento de recorrências e controle de cobrança automatizado.
+A solução de pagamentos será implementada através da **Stripe**, que oferece infraestrutura segura e escalável para transações financeiras, suporte a assinaturas e pagamentos internacionais, além de integração simplificada com o restante do sistema.
 
 ### 🤖 Inteligência Artificial
-Para os recursos baseados em IA, será utilizada a **plataforma da OpenAI**, integrando modelos de linguagem e geração de conteúdo para funcionalidades como:
+A **OpenAI** será utilizada como base para recursos de inteligência artificial. Os bots baseados em IA irão auxiliar os usuários com sugestões personalizadas de treinos, planos alimentares, playlists musicais, dicas de saúde e análise de dados.  
+A IA será integrada ao sistema de forma contextualizada, utilizando variáveis como objetivo do usuário, progresso, preferências e dados físicos.
 
-- Criação automatizada de treinos personalizados;
-- Recomendações alimentares conforme objetivos e restrições do usuário;
-- Sugestões de playlists personalizadas com base no estilo de treino;
-- Suporte conversacional inteligente para dúvidas e instruções rápidas.
-
-Essa abordagem permitirá uma experiência altamente personalizada, inteligente e com maior valor agregado ao usuário final.
+### 🔁 Automações
+Para integração entre ferramentas e automações de processos, será utilizada a plataforma **Make (Integromat)**.  
+Com o Make, fluxos como envio de e-mails automáticos, atualizações em bancos de dados, notificações, sincronização de dados e integrações externas serão orquestrados de forma eficiente e visual, reduzindo a complexidade do backend e garantindo fluidez na operação do sistema.
