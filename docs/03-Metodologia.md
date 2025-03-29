@@ -29,3 +29,5 @@ A IA será integrada ao sistema de forma contextualizada, utilizando variáveis 
 ### 🔁 Automações
 Para integração entre ferramentas e automações de processos, será utilizada a plataforma **Make (Integromat)**.  
 Com o Make, fluxos como envio de e-mails automáticos, atualizações em bancos de dados, notificações, sincronização de dados e integrações externas serão orquestrados de forma eficiente e visual, reduzindo a complexidade do backend e garantindo fluidez na operação do sistema.
+
+![Metodologia](https://github.com/user-attachments/assets/6da43250-660e-4f9d-9943-778e29d5918d)
