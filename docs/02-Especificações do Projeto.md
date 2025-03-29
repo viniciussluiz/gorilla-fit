@@ -1,4 +1,5 @@
-# Requisitos
+# Especificações do Projeto
+## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, foi aplicada a técnica de priorização da Escala de Três Níveis, que busca delimitar o universo de possíveis valores desse atributo para tais possibilidades, de modo que a prioridade seja uniformizada e melhor entendida por todos do time.
 
@@ -6,7 +7,7 @@ Foram estabelecidos os níveis de prioridade de acordo com os dois aspectos prin
 
 ![image](https://user-images.githubusercontent.com/103579574/229512485-da1405c1-c007-4bb0-bffb-1f177a19beb3.png)
 
-## Requisitos Funcionais
+### Requisitos Funcionais
 
 | ID      | Descrição do Requisito | Prioridade | Categoria |
 |---------|-----------------------------------------------|-----------|-----------|
@@ -28,7 +29,7 @@ Foram estabelecidos os níveis de prioridade de acordo com os dois aspectos prin
 | RF-015  | Detecção de Execução de Exercício: Análise via câmera para corrigir postura. | BAIXA | R4 (Não Importante e Não Urgente) |
 | RF-016  | Envio automático de dicas diárias sobre treino e saúde (Estilo: Você Sabia?) | BAIXA | R4 (Não Importante e Não Urgente) |
 
-## Requisitos Não Funcionais
+### Requisitos Não Funcionais
 
 | ID       | Descrição do Requisito | Prioridade | Categoria |
 |----------|---------------------------------------------|-----------|-----------|
@@ -49,7 +50,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 | RES-002 | A infraestrutura do aplicativo deve garantir a escalabilidade para um grande número de usuários simultâneos. |
 | RES-003 | O aplicativo deve seguir as diretrizes de design da Google Play Store e App Store. |
 
-# Regras de Negócio
+## Regras de Negócio
 
 ### 📊 Personalização Inteligente  
 A IA deve considerar peso, altura, idade e objetivo do usuário para criar treinos e dietas personalizadas.  
@@ -68,4 +69,3 @@ A análise de fotos de pratos de comida será baseada em um banco de dados alime
 
 ### 🔒 Segurança e Privacidade  
 Os dados dos usuários serão armazenados com segurança e não serão compartilhados sem consentimento.  
-
